@@ -29,7 +29,11 @@ server => routes => controller => service => banco de dados
 
 ### Algumas Bibliotecas Importantes
 Class-Transform: Excelente para exibir ou esconder dados
+
 JsonWebToken: Para Criar tokens e validações para o mesmo
+
 Bcrypts: Para Criptografar senhas
+
 Uuid: Criar Id's unicos!
+
 Cors: Habilita outras fontes que não sejam back-end para que acessem a aplicação
